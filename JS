@@ -1,0 +1,10 @@
+// JavaScript for additional functionality (if needed)
+// For example, you can add interactivity or animations here.
+
+// Example: Add a welcome message in the console
+console.log("Welcome to Vattmurni Music Academy!");
+
+// Example: Add a click event to the invitation
+document.querySelector('.invitation').addEventListener('click', () => {
+    alert("Thank you for joining us at Vattmurni Music Academy!");
+});
